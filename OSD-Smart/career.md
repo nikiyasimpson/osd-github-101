@@ -4,6 +4,7 @@
 1. Make a plan with your manger and your sponsor of the goals you need to reach for you to advance in each step.
 1. Have conversations with your mentor
 1. Use tutorials and create your own projects from them to add to your portfolio.
+1. Learn GIT
 
 ## Add your own tip to the list or constribute a visual change
 
